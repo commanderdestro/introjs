@@ -19,6 +19,11 @@ hr {
   src: url(Saira-Regular.ttf);
 }
 
+@font-face{
+  font-family: postageMedium;
+  src: url(Saira-Medium.ttf);
+}
+
 .controls {
   border-bottom: 1px solid black;
   padding: 10px;
